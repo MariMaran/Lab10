@@ -7,7 +7,7 @@ public class TestSimulator {
      Simulator sim=new Simulator();
      sim.init();
      sim.run();
-     System.out.println(sim.clientiInsoddisfatti );
+     System.out.println(sim.clientiInsoddisfatti);
    
 	}
 
