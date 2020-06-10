@@ -11,7 +11,7 @@ public String toString() {
 }
 public Tavolo(Integer posti, boolean occupato,int id) {
 	super();
-	this.posti = posti;
+	this.posti = posti ;
 	this.occupato = occupato;
 	this.id=id;
 }
